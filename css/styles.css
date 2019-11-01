@@ -10,10 +10,21 @@
     height: 100vh;
     color: antiquewhite;
     text-transform: uppercase;
+    margin-top: 70px;
+}
+
+.mouse {
+    margin-top: 350px;
 }
 
 
-
+h2 {
+    text-align: center;
+    
+}
+/* #root {
+    background: url(../images/backgrounds/s_image.jpg)
+} */
 
     
 
