@@ -46,6 +46,7 @@ h2 {
  .bg-sucess {
    font-weight: bolder;
    text-transform: uppercase;
+   color: #000000;
 }
 
 .align-self-end {
@@ -59,16 +60,28 @@ h2 {
 
 h4 {
     text-align: center;
-
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 65px;
 }
 
  #offer {
     background: url(../images/services_icons/dev_icon.png)
     
 } 
-
+ 
 /* @media (min-width: 600px) {
     p {
         font-size: 1.25rem;
     }
 } */
+
+.hidden1, .hidden2, .hidden3 {
+    margin-right: 300px;
+    margin-left: 120px;
+    
+}
+
+.head-show {
+    display: none;
+}
