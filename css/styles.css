@@ -10,21 +10,30 @@
     height: 100vh;
     color: antiquewhite;
     text-transform: uppercase;
-    margin-top: 70px;
+    width: 100;
+    position: relative;
+    
 }
 
 .mouse {
-    margin-top: 350px;
+    /* margin-top: 350px; */
+    position: absolute;
+    top: 93vh;
+    left: 50%;
 }
 
 
 h2 {
     text-align: center;
-    
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight: 100px;
 }
-/* #root {
-    background: url(../images/backgrounds/s_image.jpg)
-} */
 
-    
+#root {
+    text-align: center;
+    line-break: unset;
+}
+
+
 
