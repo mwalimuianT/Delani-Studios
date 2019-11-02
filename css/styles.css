@@ -45,6 +45,11 @@ h2 {
     margin-bottom: 35px;
 }
 
+.align-self-end {
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
 
 .contract {
     margin-bottom: 100px;
@@ -52,11 +57,16 @@ h2 {
 
 h4 {
     text-align: center;
-    margin-bottom: 10px;
+
 }
 
-/* #offer {
-    background: url(../images/services_icons/design_icon.png);
-    background-repeat: no-repeat;
+ #offer {
+    background: url(../images/services_icons/dev_icon.png)
     
+} 
+
+/* @media (min-width: 600px) {
+    p {
+        font-size: 1.25rem;
+    }
 } */
