@@ -26,8 +26,6 @@
 h2 {
     text-align: center;
     margin-top: 50px;
-    text-transform: uppercase;
-    font-weight: 100px;
 }
 
 #root {
@@ -45,11 +43,15 @@ h2 {
     margin-bottom: 35px;
 }
 
-.align-self-end {
-    text-transform: uppercase;
-    font-weight: bolder;
+ .bg-sucess {
+   font-weight: bolder;
+   text-transform: uppercase;
 }
 
+.align-self-end {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
 
 .contract {
     margin-bottom: 100px;
