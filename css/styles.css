@@ -38,16 +38,25 @@ h2 {
 
 #services {
     background: url(../images/backgrounds/s_image.jpg);
-    height: 370px;
+    height: 350px;
     text-align: center;
     color: whitesmoke;
-    margin-top: 70px;
-    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-bottom: 35px;
 }
+
 
 .contract {
     margin-bottom: 100px;
 }
 
+h4 {
+    text-align: center;
+    margin-bottom: 10px;
+}
 
-
+/* #offer {
+    background: url(../images/services_icons/design_icon.png);
+    background-repeat: no-repeat;
+    
+} */
