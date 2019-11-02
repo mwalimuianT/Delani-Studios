@@ -93,5 +93,11 @@ h4, span {
 }
 
 .col-25 {
-    margin-bottom: 
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.col-75 {
+    margin-bottom: 30px;
+    margin-left: 1000px;
 }
