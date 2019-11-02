@@ -58,7 +58,7 @@ h2 {
     margin-bottom: 100px;
 }
 
-h4 {
+h4, span {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
@@ -84,4 +84,7 @@ h4 {
 
 .head-show {
     display: none;
+  
 }
+
+
