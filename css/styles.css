@@ -86,6 +86,34 @@ h4, span {
     display: none;
 }
 
+#phone {
+    background: url(../images/backgrounds/c_image.jpg)
+}
 
+.phone {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+/* 
+#name  {
+    margin-bottom: auto;
+    padding: 10px;
+    margin-left: ;
 
+}
 
+ .email {
+    margin-bottom:45%;
+    padding: 10px;
+    margin-left: 40%;
+     */
+}
+
+#subject {
+    margin-top: 120px;
+}
+
+.contact {
+    text-align: inline-block;
+}
