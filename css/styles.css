@@ -78,8 +78,7 @@ h4, span {
 
 .hidden1, .hidden2, .hidden3 {
     margin-right: 300px;
-    margin-left: 120px;
-    
+    margin-left: 120px;   
 }
 
 .head-show {
@@ -93,27 +92,14 @@ h4, span {
 .phone {
     text-align: center;
     text-transform: uppercase;
-    margin-top: 50px;
+    margin-top: 10px;
 }
-/* 
-#name  {
-    margin-bottom: auto;
-    padding: 10px;
-    margin-left: ;
-
-}
-
- .email {
-    margin-bottom:45%;
-    padding: 10px;
-    margin-left: 40%;
-     */
-}
+ .textarea {
+     margin-bottom: 50px;
+ }
 
 #subject {
-    margin-top: 120px;
+    margin-top: 50px;
+    margin-left: 550px;
 }
 
-.contact {
-    text-align: inline-block;
-}
