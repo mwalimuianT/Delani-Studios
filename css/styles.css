@@ -62,7 +62,8 @@ h4, span {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
-    margin-bottom: 65px;
+    margin-bottom: 75px;
+    margin-top: 10px
 }
 
  #offer {
@@ -73,12 +74,12 @@ h4, span {
 /* @media (min-width: 600px) {
     p {
         font-size: 1.25rem;
-    }
+    }  
 } */
 
 .hidden1, .hidden2, .hidden3 {
-    margin-right: 300px;
-    margin-left: 120px;   
+    margin-right: 40px;
+    margin-left: 30px;   
 }
 #phone {
     background: url(../images/backgrounds/c_image.jpg)
