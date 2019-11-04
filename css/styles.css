@@ -80,11 +80,6 @@ h4, span {
     margin-right: 300px;
     margin-left: 120px;   
 }
-
-.head-show {
-    display: none;
-}
-
 #phone {
     background: url(../images/backgrounds/c_image.jpg)
 }
@@ -100,12 +95,13 @@ h4, span {
 }
  .textarea {
      margin-bottom: 50px;
+     
  }
 
 #subject {
     margin-top: 50px;
     margin-left: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .form-control {
@@ -114,8 +110,19 @@ h4, span {
 
 #internet {
     text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
 }
 
 footer {
     text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.btn:hover {
+    border-radius: 50px;
+    background-color: blue;
+    text-decoration-color: red;
+    
 }
