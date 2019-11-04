@@ -128,10 +128,25 @@ footer {
     
 }
 
-#pp, #dev, #prod, .head-show {
+#pp, #dev, #prod, .head {
     display: none;
 }
+.button {
+   color: green;
+    text-align:center;
+    align-content: center;
+}
 
-.head-show{
-    padding: 10px;
+.texts{
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    color:lime;
+    font-size: 1.5em;
+    display:none;
+}
+.pic:hover{
+    opacity:0.2;
+
 }

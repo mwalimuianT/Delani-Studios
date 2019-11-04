@@ -8,5 +8,9 @@ $ (document).ready(function(){
     $("#product").click(function() {
         $("#prod").slideToggle();
     });
+    $("#project1").hover(function(){
+        $("#text").show("slow")
+    
+    })
     });
 
