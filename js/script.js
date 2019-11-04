@@ -53,3 +53,5 @@ if (email== "") {
 event.preventDefault()
 }
 
+confirm("Would you like to dive more from Delani Studio?");
+
