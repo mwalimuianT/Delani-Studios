@@ -1,7 +1,12 @@
 $ (document).ready(function(){
     $("#design").click(function() {
-        $("#pp").toggle("slow");
+        $("#pp").slideToggle();
     });
-    $("#design")
+    $("#development").click(function() {
+        $("#dev").slideToggle();
+    });
+    $("#product").click(function() {
+        $("#prod").slideToggle();
+    });
     });
 
