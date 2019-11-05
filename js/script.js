@@ -1,13 +1,19 @@
-$ (document).ready(function(){
-    $("#design").click(function() {
+//  what we do  
+ $ (document).ready(function(){
+    $("#design, #pp").click(function() {
         $("#pp").slideToggle();
+        $("#design").slideToggle();
     });
-    $("#development").click(function() {
-        $("#dev").slideToggle();
+    $("#development, #dev").click(function() {
+        $("#dev").toggle();
+        $("#development").slideToggle();
     });
-    $("#product").click(function() {
+    $("#product, #prod").click(function() {
         $("#prod").slideToggle();
+        $("#product").slideToggle();
     });
+
+    // portfolio
     $("#project1").hover(function(){
         $("#text1").toggle("slow");
     
@@ -53,5 +59,5 @@ if (email== "") {
 event.preventDefault()
 }
 
-confirm("Would you like to dive more from Delani Studio?");
+// confirm("Would you like to dive more from Delani Studio?");
 
