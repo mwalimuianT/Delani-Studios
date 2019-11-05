@@ -50,14 +50,14 @@
 var submission=function(){
  
 var email=document.getElementById("email")
-if (email== "") {
-    alert("Please enter Email")
+if (email== "" ) {
+    alert("Please enter your Email")
 }
     else {
-     alert("Thank you for contacting us.")
-}
-event.preventDefault()
-}
+        alert('Please enter your Email.' )
+    }
 
+
+}
 // confirm("Would you like to dive more from Delani Studio?");
 
